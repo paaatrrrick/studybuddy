@@ -3,7 +3,7 @@
 
 #### An AI powered Canvas exam solver
 
-> Please don't actually use this for cheating. This is just a warning to schools to showcase the ease of cheating with GPT-4
+> Please don't actually use this for cheating. This is just a warning to schools to showcase the ease of cheating with GPT-4.
 
 
 ## Programmatically Run
@@ -25,7 +25,7 @@ Set your environment variables
 In /src/utils/constants.js set the following variables
 const OPENAI_KEY = 'YOUR API KEY';
 ```
-If you don't have gpt-4 you can run this on gpt-3.5-turbo by chaning model in /src/utils/constants.js
+If you don't have gpt-4, you can run this on gpt-3.5-turbo by changing the model in /src/utils/constants.js
 
 
 ```
